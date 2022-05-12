@@ -1,0 +1,73 @@
+<Database>
+	<!-- Plastic Surgery Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_PLASTICS_TREATMENTS">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>米卡柳丁</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<!-- ================================================== -->
+	<!-- ============= Plastic Surgery v1.0.6 ============= -->
+    <!-- =================== CRP EXPORT =================== -->
+	<!-- ================================================== -->
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_CRP_HOSPITALISEDMONTIOR_L1</LocID>                         
+		<Text>住院监护 (短期)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_CRP_HOSPITALISEDMONTIOR_L1_DESC</LocID>                         
+		<Text>观察并等待医院对患者病情的监控。这样可以更快地对问题做出反应，对于症状或治疗引起的高风险并发症也是必要的。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_CRP_HOSPITALISEDMONTIOR_L2</LocID>                         
+		<Text>住院监护 (中期)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_CRP_HOSPITALISEDMONTIOR_L2_DESC</LocID>                         
+		<Text>观察并等待医院对患者病情的监控。这样可以更快地对问题做出反应，对于症状或治疗引起的高风险并发症也是必要的。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_CRP_HOSPITALISEDMONTIOR_L3</LocID>                         
+		<Text>住院监护 (长期)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_CRP_HOSPITALISEDMONTIOR_L3_DESC</LocID>                         
+		<Text>观察并等待医院对患者病情的监控。这样可以更快地对问题做出反应，对于症状或治疗引起的高风险并发症也是必要的。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_CRP_SHALLOWDEBRISREMOVAL</LocID>                         
+		<Text>杂物清除</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_CRP_SHALLOWDEBRISREMOVAL_DESC</LocID>                         
+		<Text>清除嵌入患者皮肤或面部的浅层碎屑和异物，并对受影响区域进行消毒。</Text>	
+	</GameDBLocalizedString>
+	
+	<!--
+	Translators, please ignore this:
+	Used to quickly add new localisation to the mod 
+	
+	<GameDBLocalizedString>      
+		<LocID>XYZ</LocID>                         
+		<Text></Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>XYZ_DESC</LocID>                         
+		<Text></Text>	
+	</GameDBLocalizedString>
+	-->
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

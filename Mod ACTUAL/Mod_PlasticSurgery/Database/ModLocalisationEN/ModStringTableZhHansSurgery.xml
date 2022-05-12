@@ -1,0 +1,251 @@
+<Database>
+	<!-- Plastic Surgery Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_PLASTICS_TREATMENTS_SURG">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>米卡柳丁</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<!-- =========================================== -->
+	<!-- ============= Plastic Surgery ============= -->
+	<!-- =========================================== -->
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_AUGMENTATION_MAMMOPLASTY</LocID>                         
+		<Text>隆胸术</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_AUGMENTATION_MAMMOPLASTY_DESC</LocID>                         
+		<Text>隆胸是一种整容手术技术，使用乳房植入物和脂肪移植乳房成形术技术来增加尺寸，改变形状并改变女性乳房的质量 \n\n需求房间: 整形外科手术室 dpt</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_NERVE_DECOM_SURGERY</LocID>                                    	
+		<Text>神经重建手术</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+		<Text>神经重建手术或手术神经修复涉及探查受损神经并从神经末梢去除受损组织或瘢痕。之后，如果末端有足够的长度，可以直接重新连接神经，以便在没有紧张的情况下进行高质量的修复。\n\n需求房间: 整形外科手术室 dpt</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_CORRECTIVE_SURGERY</LocID>                                    	
+		<Text>视力纠正手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_CORRECTIVE_SURGERY_DESC</LocID>                        	
+		<Text>偶尔需要矫正手术的患者并不少见，这是为了解决与先前手术有关的问题或并发症。解决这些问题将大大有助于患者满意度，同时牺牲额外的手术时间和进一步的并发症风险。\n\n需求房间: 整形外科手术室 dpt</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_SCAR_REVISION_SURGERY</LocID>                                    	
+		<Text>疤痕修复手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_SCAR_REVISION_SURGERY_DESC</LocID>                        	
+		<Text>疤痕修复是改善或减少疤痕外观的手术。它还可以恢复功能，并纠正由受伤，伤口，愈合不良或以前的手术引起的皮肤变化（毁容）。\n\n需求房间: 整形外科手术室 dpt</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_IMPLANT_REMOVAL</LocID>                                    	
+		<Text>乳房植入物移除</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_IMPLANT_REMOVAL_DESC</LocID>                        	
+		<Text>乳房植入物感染通常由金黄色葡萄球菌和凝固酶阴性葡萄球菌引起。革兰氏阴性杆菌很少被报道涉及乳房植入物感染。虽然罕见，但这种类型的感染通常需要移除植入物。该手术移除乳房植入物并清洁植入部位周围的组织。通常需要后续的抗生素课程。 \n\n需求房间: 整形外科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_CAPSULECTOMY</LocID>                                    	
+		<Text>囊切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_CAPSULECTOMY_DESC</LocID>                        	
+		<Text>囊切除术是手术切除疤痕组织或胶囊，在乳房植入物周围变厚和硬化。胶囊由成纤维细胞，胶原蛋白和血管组成。进行囊切除术应该减轻不适并改善患者乳房的外观和感觉。 \n\n需求房间: 整形外科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_SAL</LocID>                                    	
+		<Text>吸脂手术 (SAL)</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_SAL_DESC</LocID>                        	
+		<Text>吸脂是一种侵入性手术，旨在通过去除局部和不成比例的脂肪沉积来改善身体的轮廓和比例。吸脂可以在一个疗程中相对安全地去除高达5升的脂肪。抽吸辅助脂肪切除术（SAL）是使用真空抽吸将脂肪从体内移除的地方。SAL可以是干燥的，潮湿的或肿胀的（肿胀的吸脂术），这取决于在手术开始之前注入手术部位的盐水（盐溶液）的体积。 \n\n需求房间: 整形外科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_RHINOPLASTY</LocID>                                    	
+		<Text>隆鼻术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_RHINOPLASTY_DESC</LocID>                        	
+		<Text> 隆鼻手术是改变鼻子形状的手术。一般患者隆鼻的动机要么是改变鼻子的外观，要么是改善呼吸或两者兼之。隆鼻术通常被称为“综合鼻整形术”，这种外科手术的目的是增强鼻子的外观或其外部美学效果，这通常改善那些“歪鼻”“塌鼻”“朝天鼻”等不符合美学标准的。  \n\n需求房间: 整形外科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_EYEMSURGERY</LocID>                                    	
+		<Text>眼肌手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_EYEMSURGERY_DESC</LocID>                        	
+		<Text>眼肌手术是矫正斜视（眼睛错位）或眼球震颤（眼睛摆动）的手术。手术涉及移动一个或多个眼睛肌肉以调节眼睛或眼睛的位置。 \n\n需求房间: 整形外科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_EMERG_REPAIR</LocID>                                    	
+		<Text>紧急手术 (Plastic)</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_EMERG_REPAIR_DESC</LocID>                        	
+		<Text>紧急手术可以定义为处理由外部创伤，急性疾病过程，慢性疾病过程的急性恶化或手术或其他介入手术的并发症引起的对生命，器官，肢体或组织的急性威胁所需的手术。 \n\n提示： 这种手术通常来说是比较重要的，请优先考虑 \n\n需求房间: 整形外科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- Not use yet -->
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_EMERG_EYEREMOVAL</LocID>                                    	
+		<Text>眼球摘除术</Text>  
+	</GameDBLocalizedString>
+
+	<!-- Not use yet -->
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_EMERG_EYEREMOVAL_DESC</LocID>                        	
+		<Text>去除眼睛肌肉和保持眼眶内容完整的眼睛。这种类型的眼科手术适用于许多眼部肿瘤，遭受严重创伤的眼睛以及失明和疼痛的眼睛。 \n\n需求房间: 整形外科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_HAIRT</LocID>                                    	
+		<Text>卵泡单位移植</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_HAIRT_DESC</LocID>                        	
+		<Text>卵泡单位提取，有时简称为FUE，是一种毛发移植手术方法，可手动从患者头皮上去除单个毛囊。一旦拔出，就将头发植入头部周围的秃头或变薄区域。 \n\n需求房间: 整形外科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_REPLANT</LocID>                                    	
+		<Text>再植术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_REPLANT_DESC</LocID>                        	
+		<Text>再植是指已经从身体完全切下的身体部位（例如手指，手或脚趾）的手术再附着。再植手术的目标是尽可能多地重新连接并恢复受伤部位的功能。 \n\n需求房间: 整形外科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+    <!-- ================================================== -->
+	<!-- ============= Plastic Surgery v1.0.6 ============= -->
+	<!-- ================================================== -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_MASTOPEXY</LocID>                         
+		<Text>乳房固定术</Text>	
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_MASTOPEXY_DESC</LocID>                         
+		<Text>众所周知，隆胸手术是一种整容手术，旨在抬起并重新勾勒出下垂的乳房或失去体积的乳房。 \n\n需求房间: 整形外科手术室 dpt.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_SEPTOPLASTY</LocID>                         
+		<Text>隔膜成形术</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_SEPTOPLASTY_DESC</LocID>                         
+		<Text>隔膜成形术，或者粘膜下间隔切除术和间隔重建术，是一种矫正手术过程，用于矫正偏斜的鼻中隔-鼻中隔是两个鼻腔之间的分隔物。理想情况下，隔膜应该沿着鼻子的中心向下延伸。 \n\n需求房间: 整形外科手术室 dpt.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_ENUCLEATION</LocID>                         
+		<Text>剜除术</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_ENUCLEATION_DESC</LocID>                         
+		<Text>剜除术是去除眼睛肌肉和保持眼眶内容完整的眼睛。这种类型的眼科手术适用于许多眼部肿瘤，遭受严重创伤的眼睛以及失明和疼痛的眼睛。球形植入物（人造眼球）用于替换移除的眼球。\提示：这种手术被认为是至关重要的，应该优先考虑。 \n\n需求房间: 整形外科手术室 dpt.</Text>	
+	</GameDBLocalizedString>
+	
+	<!-- ================================================== -->
+	<!-- ============= Plastic Surgery v1.0.7 ============= -->
+	<!-- ================================================== -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_CHEEK_AUGMENTATION</LocID>                         
+		<Text>脸颊增强</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_CHEEK_AUGMENTATION_DESC</LocID>                         
+		<Text>脸颊增强手术，也称为脸颊植入手术，是一种整形外科医生在颧骨上插入固体植入物的过程，通过让脸颊看起来更丰满，为脸部提供更好的整体清晰度，从而增强面部轮廓。 \n\n需求房间: 整形外科手术室 dpt.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_IMPLANT_REMOVAL_01</LocID>                         
+		<Text>脸颊植入物感染</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_IMPLANT_REMOVAL_01_DESC</LocID>                         
+		<Text>脸颊植入物感染通常由金黄色葡萄球菌和凝固酶阴性葡萄球菌引起。虽然罕见，但这种类型的感染通常需要移除植入物。该手术移除脸颊植入物并清洁植入部位周围的组织。通常需要后续的抗生素课程 \n\n需求房间: 整形外科手术室 dpt.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_ABDOMINOPLASTY</LocID>                         
+		<Text>腹壁成形术</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_ABDOMINOPLASTY_DESC</LocID>                         
+		<Text>腹部整形术是一种整容手术，用于使腹部更薄更坚固。手术包括从中腹部和下腹部去除多余的皮肤和脂肪，以收紧腹壁的肌肉和筋膜。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_ENDOVENOUS_LASER_AB</LocID>                         
+		<Text>静脉内激光消融</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_ENDOVENOUS_LASER_AB_DESC</LocID>                         
+		<Text>静脉内激光消融，也称为静脉内激光治疗，是一种利用激光热量减少静脉曲张的手术。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_SURGICAL_DEBRIDEMENT</LocID>                         
+		<Text>外科清创术</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SUR_SLP_PLAS_SURGICAL_DEBRIDEMENT_DESC</LocID>                         
+		<Text>清创是医学去除死亡，受损或感染的组织以改善剩余健康组织的愈合潜力。麻醉下手术或“尖锐”清创和激光清创是最快的清创方法。它们非常有选择性，这意味着进行清创术的人可以完全控制哪些组织被移除，哪些被留下。手术清创可以在手术室或床边进行，这取决于坏死物质的程度和患者耐受手术的能力。 \n\n需求房间: 整形外科手术室 dpt.</Text>	
+	</GameDBLocalizedString>
+	
+	<!--
+	Translators, please ignore this:
+	Used to quickly add new localisation to the mod 
+		
+	<GameDBLocalizedString>      
+		<LocID>XYZ</LocID>                         
+		<Text></Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>XYZ_DESC</LocID>                         
+		<Text></Text>	
+	</GameDBLocalizedString>
+	-->
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

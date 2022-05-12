@@ -1,0 +1,55 @@
+<Database>
+	<!-- Plastic Surgery Mod by Sleepy068 -->
+    <GameDBStringTable ID="LOC_ZHHANS_ADDON_PLASTICS_EXAMINATIONS">
+
+        <LanguageCode>zh-Hans</LanguageCode>
+        <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>米卡柳丁</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+		
+		<!-- ================================================== -->
+		<!-- ============= Plastic Surgery v1.0.6 ============= -->
+		<!-- =================== CRP EXPORT =================== -->
+		<!-- ================================================== -->
+            
+		<GameDBLocalizedString>      
+			<LocID>EXM_CRP_ELECTROPHORESIS</LocID>                         
+			<Text>电泳采样</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>EXM_CRP_ELECTROPHORESIS_DESC</LocID>                         
+			<Text>电泳是一种实验室技术，用于根据DNA，RNA或蛋白质分子的大小和电荷分离它们。电流用于移动待通过凝胶分离的分子。凝胶中的孔隙像筛子一样工作，允许较小的分子比较大的分子移动得更快。可以调节电泳期间使用的条件以分离所需尺寸范围内的分子 \n\n需求房间: 医学实验室</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>EXM_CRP_ELECTROPHORESIS_TEST</LocID>                         
+			<Text>电泳检测</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>EXM_CRP_ELECTROPHORESIS_TEST_DESC</LocID>                         
+			<Text>医生正在处理患者的样本，相信很快就便会出结果。</Text>	
+		</GameDBLocalizedString>
+		<!--
+		Translators, please ignore this:
+		Used to quickly add new localisation to the mod 
+
+		<GameDBLocalizedString>      
+			<LocID>XYZ</LocID>                         
+			<Text></Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>XYZ_DESC</LocID>                         
+			<Text></Text>	
+		</GameDBLocalizedString>
+		-->
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>
