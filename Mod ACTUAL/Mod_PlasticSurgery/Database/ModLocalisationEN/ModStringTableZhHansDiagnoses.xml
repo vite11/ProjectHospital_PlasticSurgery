@@ -1,0 +1,368 @@
+<Database>
+	<!-- Plastic Surgery Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_PLASTICS_DIAGNOSES">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>米卡柳丁</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_BREAST_01_V2</LocID>                         
+			<Text>隆胸手术 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_BREAST_01_DESC</LocID>                         
+			<Text>隆胸术，也称为隆乳术，在乳房重建手术中可以是一种美容(C)过程或重建(R)过程。手术包括在乳房下方植入植入物以扩大乳房。植入物的类型和大小取决于一些因素，比如患者希望自己的乳房有多大，他们的乳房解剖结构，皮肤厚度和弹性，以及身体类型。这位患者表示，他们想要做一次美容隆胸手术，以提升自己的外表。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_STOMACH_01_V2</LocID>                         
+			<Text>吸脂术 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_STOMACH_01_DESC</LocID>                         
+			<Text>吸脂术, 又称吸脂减肥术和体型雕塑术，是一种通过去除多余的脂肪沉积物以纤细和重塑身体特定区域来改善身体轮廓和比例的方法。目标常见区域包括大腿，臀部，腹部，手臂，颈部和下巴下方。通常，较小体积的吸脂手术由门诊科目完成，而较大体积则需要住院监测医生水平以及患者是否患有其他疾病。患者表示他们希望通过吸脂手术来增强自己的外观。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_NOSE_01_V2</LocID>                         
+			<Text>隆鼻术 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_NOSE_01_DESC</LocID>                         
+			<Text>隆鼻手术是改变鼻子形状的手术。一般患者隆鼻的动机要么是改变鼻子的外观，要么是改善呼吸或两者兼之。隆鼻术通常被称为“综合鼻整形术”，这种外科手术的目的是增强鼻子的外观或其外部美学效果，这通常改善那些“歪鼻”“塌鼻”“朝天鼻”等不符合美学标准的。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_EYE_01</LocID>                         
+			<Text>眼睑痉挛 (R)(Mild)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_EYE_01_DESC</LocID>                         
+			<Text>眼睑痉挛是眼睑肌肉的异常收缩。它通常指的是良性特发性眼睑痉挛(BEB)，这是一种双侧情况，是一种导致眼皮间歇性闭合的局灶性肌张力障碍。在较轻微的病例中，肉毒杆菌毒素注射是一种普遍接受的治疗方法。瘫痪需要一到四天的时间才能开始，完全的效果通常需要一周左右，持续四个月。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_EYE_02_V2</LocID>                         
+			<Text>斜视 (R)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_EYE_02_DESC</LocID>                         
+			<Text>斜视是一种在看物体时眼睛不能正确对准的情况。（泽注：包含视野重影。其实俗称就是斗鸡眼。）一般情况下是两只眼睛不能聚焦在一起所导致，这种情况可能会偶尔出现（比如在黑暗中看了一夜的手机，次日眼睛就会出现重影。）也可能会频繁出现。虽然斜视被定义为儿童疾病，但实际上，成年人斜视的几率更高。如果斜视出现在儿童时期，可能会导致弱视或深度知觉丧失。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_HAIR_01_V2</LocID>                         
+			<Text>植发(C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_HAIR_01_DESC</LocID>                         
+			<Text>头发移植是一种手术，可将毛囊从身体的一部分（称为“供体部位”）移除到身体的秃头或秃顶部分（称为“受体部位”）。该技术主要用于治疗男性型秃发。在这种微创手术中，将含有对秃顶具有遗传抗性的毛囊（如头部后部）的移植物移植到秃头皮上。头发移植还可用于恢复睫毛，眉毛，胡须，胸毛，阴毛，并填补事故或手术引起的疤痕，如整脸和以前的头发移植。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_SKIN_01</LocID>                         
+			<Text>化学剥离(浅皮)(C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_SKIN_01_DESC</LocID>                         
+			<Text>化学剥离是一种使用化学溶液纠正面部瑕疵，皱纹和皮肤色素沉着不均匀的治疗方法。在这种处理中，将化学溶液施用于皮肤，使其“起泡”并最终剥离。新皮肤通常比旧皮肤更光滑，皱纹更少。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_VEIN_01</LocID>                         
+			<Text>静脉曲张(简单)(R)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_VEIN_01_DESC</LocID>                         
+			<Text>静脉曲张，俗称来说就是静脉曲张微创手术，这种手术一般是在患者的肢体进行注射，能够无痛，无创的消除病患，并且能满足患者对美体的要求，但同时，静脉曲张可能会引起疼痛和不适，并可能引发更加严重的问题。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_VEIN_01</LocID>                         
+			<Text>毛细血管扩张症 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_VEIN_01_DESC</LocID>                         
+			<Text>毛细血管扩张，通常也被称为蜘蛛静脉，是在表皮附近形成微小的血管簇，他们通常为红色、蓝色或者紫色，同时因为又像一个蜘蛛一般所以被称为蜘蛛静脉。通常情况下，他们一般分布在脸部和腿部。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_HAND_01_M</LocID>                         
+			<Text>掌跖纤维瘤病 (简单)(R)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_HAND_01_F</LocID>                         
+			<Text>掌跖纤维瘤病 (简单)(R)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_HAND_01_DESC</LocID>                         
+			<Text>掌跖纤维瘤病，又被称为Dupuytren挛缩，常在30~50的中年男性中发病，损害为掌部多发性坚实性结节，通常为3～5个，直径1cm，发生于无名指的近端，最后无名指废用性屈曲挛缩，导致爪状畸形和手掌皮肤皱褶。该病有时与酒精性肝硬化、糖尿病和慢性癫痫伴发。可与跖部纤维痛病和指节垫伴发。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_SCAR_01</LocID>                         
+			<Text>增生性瘢痕 (简单)(R)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_SCAR_01_DESC</LocID>                         
+			<Text>增生性瘢痕一般在皮肤受伤后的地方发展，在伤口愈合过程中，很常见。增生性瘢痕突出皮面，形状不规则，高低不平，潮红充血，质地实韧。有灼痛和瘙痒感，于环境温度增高，情绪激动，或进食辛辣刺激性食物时症状加剧。增生往往延续几月或几年后才逐渐发生退行性变化，表现为突起高度减低，颜色转暗，充血消退，变软。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_SCAR_02</LocID>                         
+			<Text>瘢痕疙瘩 (简单)(R)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_SCAR_02_DESC</LocID>                         
+			<Text>瘢痕疙瘩是皮肤损伤愈合过程中，胶原合成代谢机能失去正常的约束控制，持续处于亢进状态，以致胶原纤维过度增生的结果，又称为结缔组织增生症，在中医上称为蟹足肿或巨痕症，表现为隆出正常皮肤，形状不一，色红质硬的良性肿块。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_T_REPLANT_01_V2</LocID>                         
+			<Text>创伤性截指 (GT)(R)(HB)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_T_REPLANT_01_DESC</LocID>                         
+			<Text>创伤性截肢是由于事故或伤害而发生的身体部位的损失，在这种情况下，患者手上的手指已被截肢，需要立即就医以试图恢复手和手指的功能。若手指不小心被利器斩断损伤(GT)，周围组织相对未受伤，手指在手术后的成功率则为77%，若为严重挤压式伤口，多级损伤或者撕裂，通常会使手指的软组织受阻，这个时候，这基本上无法进行修复，只能被迫切除断指。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_SKIN_02</LocID>                         
+			<Text>皮肤调理 (肉毒杆菌毒素疗法)(C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_SKIN_02_DESC</LocID>                         
+			<Text>肉毒杆菌注射主要是为了减少面部皱纹的出现。肉毒杆菌注射阻断神经的某些化学信号，主要是导致肌肉收缩的信号。这些注射最常见的用途是暂时放松面部肌肉，导致前额和眼睛周围出现皱纹。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_SKIN_03</LocID>                         
+			<Text>皮肤调理 (皮肤填充剂)(C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_SKIN_03_DESC</LocID>                         
+			<Text>皮肤填充剂，有时称为软组织填充剂，是注射到皮肤下以减少面部皱纹或线条外观的材料，也可用于通过增加脸颊和嘴唇的体积来增强面部轮廓，并改善疤痕的外观。皮肤填充剂是可生物降解的，这意味着它们将自然消失在体内。填充的寿命可以根据品牌，厚度和处理面积而变化。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_SKIN_04</LocID>                         
+			<Text>皮肤调理 (激光换肤)(C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_SKIN_04_DESC</LocID>                         
+			<Text>激光换肤是一种面部年轻化手术，使用激光改善皮肤外观或治疗轻微的面部缺陷。激光换肤可以减少面部细线的出现。如果有疤痕或阳光照射，它还可以治疗肤色丧失并改善患者的肤色。激光换肤不能消除皮肤过度或下垂。</Text>	
+		</GameDBLocalizedString>
+		
+	<!-- ================================================== -->
+	<!-- ============= Plastic Surgery v1.0.6 ============= -->
+	<!-- ================================================== -->
+	
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_BREAST_02</LocID>                         
+			<Text>隆胸 (乳房固定术)C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_BREAST_02_DESC</LocID>                         
+			<Text>隆胸，也称为乳房切除术，是一种抬高和固定乳房的手术。外科手术还重塑乳头乳晕复合体，并将乳房抬起胸壁。患者表示他们希望隆胸以增强外观。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_NOSE_02</LocID>                         
+			<Text>隔膜成形术 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_NOSE_02_DESC</LocID>                         
+			<Text>隔膜成形术或鼻中矫正手术是一种矫正手术，用于矫正偏斜的鼻中隔-鼻中隔是两个鼻腔之间的分隔。理想情况下，隔膜应该沿着鼻子的中心向下延伸。患者表示他们希望进行隔膜成形术以增强其外观。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_T_REPLANT_02</LocID>                         
+			<Text>截肢的脚趾 (GT)(R)(HB)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_T_REPLANT_02_DESC</LocID>                         
+			<Text>创伤性截肢是由于事故或伤害而发生的身体部位的损失。在这种情况下，患者脚上的脚趾已被截肢，需要立即就医以试图恢复脚和脚趾的功能。尖锐的断头台型（GT）损伤，周围组织相对未受伤，再植后预后最好，成功率为77%。严重挤压伤（CI），多级损伤和撕脱伤通常会使软组织受到阻碍，无法重新连接基本血管，从而无法进行再植。在这种情况下，可能需要修复残肢。患者已被切断身体部位（HB）到达医院。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_NOSE_01</LocID>                         
+			<Text>鼻畸形</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_NOSE_01_DESC</LocID>                         
+			<Text>患者的鼻子有结构缺陷，在美学和功能上都会引起问题。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_01</LocID>                         
+			<Text>检查: 隆胸 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_01_DESC</LocID>                         
+			<Text>患者与医生进行了后续的预约，患者正在接受最近的隆胸手术。医生将检查伤口，更换敷料并去除仍然存在的手术线，手术钉或者其他的什么物品。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_02</LocID>                         
+			<Text>检查：隆鼻术 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_02_DESC</LocID>                         
+			<Text>患者与医生进行了后续的预约，患者正在接受最近的隆鼻手术。医生将检查伤口，更换敷料并去除仍然存在的手术线，手术钉或者其他的什么物品。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_03</LocID>                         
+			<Text>检查: 吸脂 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_03_DESC</LocID>                         
+			<Text>患者与医生进行了后续的预约，患者正在接受最近的吸脂手术。医生将检查伤口，更换敷料并去除仍然存在的手术线，手术钉或者其他的什么物品。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_T_BLAST_01</LocID>                         
+			<Text>爆炸相关的眼外伤</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_T_BLAST_01_DESC</LocID>                         
+			<Text>爆炸相关的眼外伤包括由爆炸性材料爆炸引起的眼睛及其结构的专门穿透性和钝性力损伤组。患者的眼睛几乎消失了，恢复几乎已经变得不可能。患者的情况变得有些危急，需要紧急护理和手术以防止进一步的失血和感染而对周围组织造成的二次伤害。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_04</LocID>                         
+			<Text>检查：乳房固定术 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_04_DESC</LocID>                         
+			<Text>患者与医生进行了后续的预约，患者正在接受最近的乳房固定手术。医生将检查伤口，更换敷料并去除仍然存在的手术线，手术钉或者其他的什么物品。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_05</LocID>                         
+			<Text>检查：隔膜成形术 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_05_DESC</LocID>                         
+			<Text>患者与医生进行了后续的预约，患者正在接受最近的隔膜成型术手术。医生将检查伤口，更换敷料并去除仍然存在的手术线，手术钉或者其他的什么物品。</Text>	
+		</GameDBLocalizedString>
+		
+		<!-- ================================================== -->
+		<!-- ============= Plastic Surgery v1.0.7 ============= -->
+		<!-- ================================================== -->
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHEEK_01</LocID>                         
+			<Text>脸颊增强 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHEEK_01_DESC</LocID>                         
+			<Text>脸颊增强，有时也称为脸颊植入物，被插入以增强颧骨或使脸颊更丰满。像其他类型的整形外科手术一样，脸颊增大可以使患者的面部看起来更年轻或平衡面部特征。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_TUMMY_01</LocID>                         
+			<Text>腹部整型术 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_TUMMY_01_DESC</LocID>                         
+			<Text>腹部整形术是一种整容手术，用于使腹部更薄更坚固。手术包括从中腹部和下腹部去除多余的皮肤和脂肪，以收紧腹壁的肌肉和筋膜提升身材的美观。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_VEIN_02</LocID>                         
+			<Text>静脉曲张 (复杂)(R)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_VEIN_02_DESC</LocID>                         
+			<Text>静脉曲张，俗称来说就是静脉曲张微创手术，这种手术一般是在患者的肢体进行注射，能够无痛，无创的消除病患，并且能满足患者对美体的要求，但同时，静脉曲张可能会引起疼痛和不适，并可能引发更加严重的问题。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_VEIN_03</LocID>                         
+			<Text>静脉溃疡 (R)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_R_VEIN_03_DESC</LocID>                         
+			<Text>静脉溃疡，也称为瘀血（俗称“老烂腿”），一般在腿部比较常见。是静脉瓣膜功能失常导致静脉压力增加的结果。由此产生的静脉高压导致血液汇集，当它没有有效地泵回到心脏时，也称为静脉功能不全。由于缺乏氧气和营养物质，组织最终分解，特别是蛋白质纤维蛋白毛细血管周围的沉积物，通常在凝血中发挥作用，防止氧气和营养物质流向周围的肌肉和组织，进而导致坏死和溃疡（纤维蛋白袖带理论）。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_06</LocID>                         
+			<Text>检查：脸颊增强 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_06_DESC</LocID>                         
+			<Text>患者与医生进行了后续的预约，患者正在接受最近的脸颊增强手术。医生将检查伤口，更换敷料并去除仍然存在的手术线，手术钉或者其他的什么物品。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_07</LocID>                         
+			<Text>检查：腹部整形术 (C)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>DIA_PLAS_C_CHECKUP_07_DESC</LocID>                         
+			<Text>患者与医生进行了后续的预约，患者正在接受最近的腹部整形手术。医生将检查伤口，更换敷料并去除仍然存在的手术线，手术钉或者其他的什么物品。</Text>	
+		</GameDBLocalizedString>
+		
+		<!-- ================================================== -->
+		<!-- ============= Plastic Surgery v1.0.x ============= -->
+		<!-- ================================================== -->
+		
+		<!--
+		Translators, please ignore this:
+		Used to quickly add new localisation to the mod 
+		
+		<GameDBLocalizedString>      
+			<LocID>XYZ</LocID>                         
+			<Text></Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>XYZ_DESC</LocID>                         
+			<Text></Text>	
+		</GameDBLocalizedString>
+		
+		-->
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+
